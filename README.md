@@ -25,7 +25,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="git_logo" width="44px" src="https://user-images.githubusercontent.com/53160017/143370569-748cf774-b063-4eab-9a9b-6f97806edce4.png" />]
-[<img align="left" alt="LaTeX_logo" width="32px" src="https://user-images.githubusercontent.com/53160017/143366231-b7dbf93c-030d-4515-bb11-7b6a3de41f7a.png" />]
+[<img align="left" alt="LaTeX_logo" width="26px" src="https://user-images.githubusercontent.com/53160017/143366231-b7dbf93c-030d-4515-bb11-7b6a3de41f7a.png" />]
 
 
 
