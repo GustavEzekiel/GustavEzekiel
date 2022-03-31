@@ -1,7 +1,7 @@
-## Hi there!! I'm Gustavo Ezequiel Perez, "GustavEzekiel" for short and "Guzkiel" for shorter 👋 
+## Hi there!! I'm Gustavo Ezequiel Perez, "GustavEzekiel" for short and "Guzkiel" for even shorter 👋 
 
 
-### I'm a Christian-weeb-biology student who is:
+### I'm a Christian-weeb-biology graduate who is:
 
 - Currently learning everything 🤣 
 - Ready to take new challenges ⚡
@@ -26,6 +26,7 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
 [<img align="left" alt="git_logo" width="44px" src="https://user-images.githubusercontent.com/53160017/143370569-748cf774-b063-4eab-9a9b-6f97806edce4.png" />]
 [<img align="left" alt="LaTeX_logo" width="30px" src="https://user-images.githubusercontent.com/53160017/143366231-b7dbf93c-030d-4515-bb11-7b6a3de41f7a.png" />]
+[<img align="left" alt="bash logo" width="26px" src="https://user-images.githubusercontent.com/53160017/161154210-5f207177-40af-4fd2-ad89-c2e324628b6a.png" />]
 
 
 
