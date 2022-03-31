@@ -23,7 +23,7 @@
 <img align="left" alt="Octave logo" width="26px" src="https://user-images.githubusercontent.com/53160017/143366167-784c5e3e-fdcb-42d7-98a0-0669d5f2770d.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="git_logo" width="44px" src="https://user-images.githubusercontent.com/53160017/143370569-748cf774-b063-4eab-9a9b-6f97806edce4.png" />
+<img align="left" alt="git_logo" width="46px" src="https://user-images.githubusercontent.com/53160017/143370569-748cf774-b063-4eab-9a9b-6f97806edce4.png" />
 <img align="left" alt="LaTeX_logo 2" width="30px" src="https://user-images.githubusercontent.com/53160017/161158522-9c514c27-c8f4-486b-b6da-ca89db6c4eeb.png" />
 <img align="left" alt="bash logo" width="26px" src="https://user-images.githubusercontent.com/53160017/161154210-5f207177-40af-4fd2-ad89-c2e324628b6a.png" />
 
