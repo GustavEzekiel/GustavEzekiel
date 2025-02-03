@@ -1,11 +1,11 @@
-## Hi there!! I'm Gustavo Ezequiel Perez, "GustavEzekiel" for short and "Guzkiel" for even shorter 👋 
+## Hi there!! I'm Gustav-Ezekiel, but you can just call me Ezekiel 👋 
 
 
 ### I'm a Christian-weeb-biology graduate who is:
 
 - Currently learning everything 🤣 
 - Ready to take new challenges ⚡
-- Drawing and playing bass / piano for fun 🌱
+- Drawing and playing bass and piano for fun 🌱
 
 ### Connect with me:
 
